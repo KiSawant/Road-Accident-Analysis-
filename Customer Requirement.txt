@@ -1,0 +1,7 @@
+1-Total Casulties and total Accident values for current year and YoY growth 
+2-Total Casulties by Accident sevirity for current year and YoY growth 
+3-Total Casulties with respect to vehichle type for current year
+4-Monthly trend showing comparsion for current Year and Previous Year
+5-Casulaties by Road Type for current year
+6-Current Year casualties by Area/Location & by Day/Night
+7-Total Casualties and by location.
